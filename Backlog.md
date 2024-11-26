@@ -62,7 +62,7 @@ Dentro do Product Backlog do projeto, os itens são categorizados como **épicos
 
 | ID  | História de Usuário | Esforço (E) | Negócio ($) | UX (<3) | Story Points |
 |-----|---------------------|-------------|-------------|---------| ------------ |
-| US15   | Eu, como usuário, quero continuar vendo meu video, quando mudar de pagina. | E | $$$ | <3 | 15 |
+| US15   | Eu, como usuário, quero continuar vendo meu video, quando mudar de pagina. | E | $$$ | <3 | 13 |
 
 
 
