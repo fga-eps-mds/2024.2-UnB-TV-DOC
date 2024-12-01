@@ -4,7 +4,7 @@
 
 - Realização de 2 US:
     - [US01](https://github.com/fga-eps-mds/2024.2-UnB-TV-DOC/issues/87) - Eu, como usuário, quero sincronizar o aplicativo com a programação em Vlibras, para compreender o video.
-    - [US02](https://github.com/fga-eps-mds/2024.2-UnB-TV-DOC/issues/88) - Eu, como administrador, quero prover o texto para o vídeo como admin, para habilitar o Vlibras no video.
+    - [US04](https://github.com/fga-eps-mds/2024.2-UnB-TV-DOC/issues/90) - Eu, como usuário, quero ver o título e adicionar vídeo ao assistir mais tarde ou favoritos, pela prévia do vídeo.
 
 - [Protótipos](https://www.figma.com/design/qyVC9kdZpRHUUxb0hWNG7x/Telas-Unb-TV?node-id=0-1&node-type=canvas&t=Hwo7Yc2ccLd0mSkU-0)
 
@@ -28,11 +28,12 @@ Tabela com o planejamento de reuniões da Sprint:
 
 | US | Repositório | Responsáveis |
 | :---: | :---------: | :----------: |
-| US1 | Repositórios Frontend | Erick, Levi, Gabriel Augusto, Jhulia Cristina, Rafael Siqueira, Vitória Aquere |
-| US2 | Repositórios Frontend | André, Artur, Ana Victória, João Marcos, Karoline Luz, Luiza da Silva, Wanjo Christopher  |
+| US01 | Repositórios Frontend | Erick, Levi, Gabriel Augusto, Jhulia Cristina, Rafael Siqueira, Vitória Aquere |
+| US04 | Repositórios Frontend | André, Artur, Ana Victória, João Marcos, Karoline Luz, Luiza da Silva, Wanjo Christopher  |
 
 ## 5. Versionamento do Documento
 
 | Data | Versão | Descrição | Autor |
 | :-----: | :-------------: | :---------------: | :-: |
 | 26/07/2024 | 1.0 | Versão inicial do documento | Artur Vinicius
+| 01/12/2024 | 2.0 | Corrigindo US da sprint | Erick Melo

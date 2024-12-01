@@ -19,12 +19,12 @@ Dentro do Product Backlog do projeto, os itens são categorizados como **épicos
 | US01   | Eu, como usuário, quero sincronizar o aplicativo com a programação em Vlibras, para compreender o video.  | EE | $$$ | <3<3<3 | 8 |
 | US02   | Eu, como administrador, quero prover o texto para o vídeo como admin, para habilitar o Vlibras no video. | EE | $$$ | <3<3<3 | 3 |
 
-### Épico 2: Melhorar a descrição da prévia do vídeo
+### Épico 2: Melhorar a descrição do vídeo
 
 | ID  | História de Usuário | Esforço (E) | Negócio ($) | UX (<3) | Story Points |
 |-----|---------------------|-------------|-------------|---------| ------------ |
-| US03   | Eu, como usuário, quero ver a data de publicação do video, quando estiver na página inicial. | EE | $$ | <3<3 | 1 |
-| US04   | Eu, como usuário, quero adicionar vídeo ao assistir mais tarde ou favoritos, pela prévia do vídeo. | EE | $$$ | <3<3<3 | 2 |
+| US03   | Eu, como usuário, quero ver a data de publicação na descrição do video, quando estiver na página do vídeo. | EE | $$ | <3<3 | 1 |
+| US04   | Eu, como usuário, quero ver o título e adicionar vídeo ao assistir mais tarde ou favoritos, pela prévia do vídeo. | EE | $$$ | <3<3<3 | 2 |
 
 ### Épico 3: Mudar para tema Dark mode
 
