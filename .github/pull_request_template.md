@@ -2,8 +2,6 @@
 name: Pull requests.
 about: Template para a criação de pull requests.
 title: Pull request.
-labels: ''
-assignees: ''
 
 ---
 
