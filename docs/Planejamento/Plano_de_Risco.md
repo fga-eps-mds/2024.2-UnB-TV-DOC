@@ -70,3 +70,12 @@ Com base no cálculo da combinação da probabilidade e impacto, é possível de
 A monitorização contínua dos riscos é essencial no desenvolvimento de um projeto de software, pois os riscos são dinâmicos e podem variar em intensidade ao longo do ciclo de vida do projeto. Para otimizar esse acompanhamento, foi desenvolvida uma planilha na qual a pontuação dos riscos é registrada a cada sprint, permitindo uma avaliação constante e ajustável dos riscos identificados, facilitando a adaptação das estratégias conforme a evolução do projeto.
 
 Link Para Planilha: [Planilha de Riscos](https://unbbr-my.sharepoint.com/:x:/g/personal/160112028_aluno_unb_br/ERIq2x61IINKk53VNtuuVDQBkFeT9yuiHtn6NzF1D9Lm6Q?e=4k1Qnd)
+
+# Referências
+
+> [1] Saiba mais sobre o gerenciamento de riscos do PMBOK. Disponível em: https://www.projectbuilder.com.br/blog/saiba-mais-sobre-o-gerenciamento-de-riscos-do-pmbok/. Acesso em: 03 out 2023.
+
+| Data | Versão | Descrição | Autor |
+| :-----: | :-------------: | :---------------: | :-: |
+| 09/12/2024 | 1.0 | Criação do documento do Plano de Risco | [André Goretti](https://github.com/AGoretti) |
+
