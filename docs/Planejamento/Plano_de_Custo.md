@@ -30,11 +30,20 @@ A partir do site Melhor Escolha, foi possível identificar para a região do Dis
 
 De acordo com o site Viver de Elétrica, um notebook consome por mês 10,8 kWh. A [Tabela de Tarifas de Energia](file:///C:/Users/mixer/Downloads/02_NEOENERGIA%20BRAS%C3%8DLIA_TARIFAS%20DE%20ENERGIA%20EL%C3%89TRICA%20GRUPO%20B_OUTUBRO_2023_REH_N%C2%BA%203.276.pdf) do DF, vigente pela empresa NeoEnergia, informa que são cobrados R$ 0,29527 por kWh consumido. Assim, é possível encontrar o valor de **R$ 0,69** por semana por membro. Assim, esse valor para 12 membros por semana seria **R$ 9,66**.
 
+## Tabela Resumo dos Custos
+
+| **Item**                    | **Valor Calculado** | **Observação**                         |
+| --------------------------- | ------------------- | -------------------------------------- |
+| Custo R1       | R$ R$ 175.214,78        | Custo somado até a R1 Com equipamentos               |
+| Custo MVP      | R$ R$ 259.674,00         | Custo somado até a MVP  |
+| Custo RN     | R$ R$ 301.903,56         | Custo somado até a RN |
+
 ## 3. Planilha de custo
 
 A planilha abaixo mostra os custos por semana até a entrega do MVP e o fim do Projeto (fim da disciplina):
 
 Link Para Planilha: [Planilha de Custo](https://unbbr-my.sharepoint.com/:x:/g/personal/160112028_aluno_unb_br/ES95hRllytdNiAGjipGk0GEBa6sgAlRW3DEk8r3vYvYGzA?e=9n2P4o)
+
 
 ## 4. Referências
 
