@@ -1,0 +1,36 @@
+site_name: 2024.2-UnB-TV-DOC
+
+repo_name: '2024.2-UnB-TV-DOC'
+repo_url: 'https://github.com/fga-eps-mds/2024.2-UnB-TV-DOC'
+
+nav:
+  - Home: index.md
+  - Guia de Contribuição:
+    - Código de Conduta: contribuicao/Codigo_de_Conduta.md
+    - Políticas de Contribuição: contribuicao/Politica_Contribuicao.md
+  - Código Fonte:
+    - Arquitetura do projeto: codigo/Documento_Arquitetura.md
+  - Planejamento:
+    - Plano de Comunicação: Planejamento/Plano_de_Comunicacao.md
+    - Plano de Custos: Planejamento/Plano_de_Custo.md
+    #- Plano de Qualidade: Planejamento/PlanoQualidade.md
+    - Plano de Riscos: Planejamento/Plano_de_Risco.md  
+    - Quadro de conhecimento: Planejamento/Quadro_Conhecimento.md  
+    #- Metodologias: Planejamento/Metodologias.md
+    #- EVM: Planejamento/evm.md
+  - Produto:
+    - Lean Inception: Produto/Lean_Inception.md
+    - Backlog do produto: Produto/Backlog.md
+    - Estrutura Analítica do Projeto (EAP): Produto/EAP.md
+  - Sprints:
+    - Sprint 1: Sprints/Sprint1.md
+    - Sprint 2: Sprints/Sprint2.md
+    - Sprint 3: Sprints/Sprint3.md
+
+theme:
+  name: material
+  language: 'pt'
+  logo: assets/unbtv-icon.ico
+  favicon: assets/unbtv-icon.ico
+  palette:
+    primary: blue green

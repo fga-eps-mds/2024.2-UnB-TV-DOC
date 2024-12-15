@@ -5,7 +5,7 @@
 Este documento é uma evolução do documento de arquitetura desenvolvido anteriormente ele detalha a estrutura do software de um projeto que incorpora Angular para o frontend. Ele é composto por quatro microsserviços desenvolvidos com FastAPI, um gateway em Node para facilitar a comunicação entre esses serviços e um banco de dados PostgreSQL, além de consumir a API do EduPlay para acessar os vídeos e programas ao vivo. A estrutura projetada tem foco na escalabilidade, resiliência e alto desempenho. Baseia-se no conceito de microsserviços, onde componentes distintos funcionam como serviços autônomos, interagindo por meio de interfaces claramente estabelecidas. Este é um esboço da arquitetura em um nível geral aqui ele teve a adição de um microserviço responsável por realizar as transações voltadas a API do  Vlibras:
 
 <p align="center">
-    <img src="../assets/Arquitetura.png" />
+    <img src="/assets/Arquitetura.png" />
 </p>
 <p align="center">
 Fonte: Adaptado do semestre anterior
@@ -57,7 +57,7 @@ Composto por dois tipos de diagramas:
 ### 4.1. Diagrama de pacote Front-end
 
 <p align="center">
-    <img src="../assets/pacote-frontend.png" />
+    <img src="/assets/pacote-frontend.png" />
 </p>
 
 Descrições breves dos pacotes:
@@ -77,7 +77,7 @@ Descrições breves dos pacotes:
 ### 4.2. Diagrama de pacote Back-end
 
 <p align="center">
-    <img src="../assets/pacote-backend.png" />
+    <img src="/assets/pacote-backend.png" />
 </p>
 
 Descrições breves dos pacotes:
@@ -94,7 +94,7 @@ Descrições breves dos pacotes:
 ### 4.3. Diagrama de implantação
 
 <p align="center">
-    <img src="../assets/implantacao.png" />
+    <img src="/assets/implantacao.png" />
 </p>
 
 ## 5. Diagrama Entidade Relacionamento (DER)
@@ -102,7 +102,7 @@ Descrições breves dos pacotes:
 O diagrama de entidade-relacionamento serve como uma ferramenta gráfica para modelar bancos de dados, proporcionando uma visão clara e abrangente da estrutura do banco de dados. Este diagrama é útil para equipes de desenvolvimento, pois descreve visualmente os objetos (entidades) que fazem parte do projeto, incluindo suas características específicas (atributos) e as formas como se relacionam entre si.
 
 <p align="center">
-    <img src="../assets/DER.png" />
+    <img src="/assets/DER.png" />
 </p>
 
 ## 6. Diagrama Lógico de Dados (DLD)
@@ -110,7 +110,7 @@ O diagrama de entidade-relacionamento serve como uma ferramenta gráfica para mo
 O diagrama lógico de dados é uma representação detalhada que se aproxima da estrutura final a ser implementada no banco de dados. Este diagrama inclui tabelas, especificando todos os atributos, além de identificar as chaves primárias e estrangeiras. Ele define a estrutura dos elementos de dados e seus inter-relacionamentos, descrevendo assim as necessidades de dados requeridas para o projeto.
 
 <p align="center">
-    <img src="../assets/DLD.png" />
+    <img src="/assets/DLD.png" />
 </p>
 
 ## 5. Referências Bibliográficas
