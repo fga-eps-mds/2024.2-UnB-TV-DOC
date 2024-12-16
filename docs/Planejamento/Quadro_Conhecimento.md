@@ -29,12 +29,17 @@ A partir disso, foi fornecimento 2 formulários para os integrantes do time de M
 
 Dessa forma, pode ser visto abaixo os quadros de conhecimentos resultante da equipe.
 
+# Quadro de Conhecimento de MDS
 ![Quadro de Conhecimento MDS](../assets/Quadro_de_Conhecimento_MDS.jpg)
 
-[Quadro de Conhecimento MDS](https://docs.google.com/spreadsheets/d/1_5or7KDGX6dye1MrN5CbT1Py95UaBFa98Dzc4lQKjy4/edit?resourcekey=&gid=1922773119#gid=1922773119)
+# Quadro de Conhecimento de EPS
+![Quadro de Conhecimento EPS](../assets/Quadro_de_Conhecimento_EPS.jpg)
+
+[Quadro de Conhecimento](https://docs.google.com/spreadsheets/d/1_5or7KDGX6dye1MrN5CbT1Py95UaBFa98Dzc4lQKjy4/edit?resourcekey=&gid=1922773119#gid=1922773119)
 
 ## 3. Versionamento do Documento
 
 | Data | Versão | Descrição | Autor |
 | :-----: | :-------------: | :---------------: | :-: |
 | 09/12/2024 | 1.0 | Criação do documento | [Artur Vinicius](https://github.com/ArturVinicius) |
+| 16/12/2024 | 2.0 | Adicionando Quadro de conhecimento de EPS | [Artur Vinicius](https://github.com/ArturVinicius) |
