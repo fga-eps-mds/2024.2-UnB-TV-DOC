@@ -12,10 +12,13 @@ A EAP é amplamente utilizada para alinhar expectativas entre stakeholders, redu
 
 Segue o EAP do Projeto UnB-TV.
 
-![EAP](../assets/EAP.jpg)
+![EAP](../assets/EAP_atualizado.jpg)
+
+[EAP](https://miro.com/welcomeonboard/WjNRa0NERmpSekJHSHJ2b2hqQ0wySWJnaFZIRjQweE16SkxYWFNrNHcyWGJ0eC9raFpZNXArNW9BWEtzZG83YUQwUkhWY0pCeFN4bW4xRFVhNk5KUjE3UHRMSXdPMGdnVm85czd1TEt5dlJJM1hlSkNrclNVSDA5WGc2YmpJNCshZQ==?share_link_id=875817272958)
 
 ## 3. Versionamento do Documento
 
 | Data | Versão | Descrição | Autor |
 | :-----: | :-------------: | :---------------: | :-: |
 | 09/12 /2024 | 1.0 | Criação do Documento | [Artur Vinicius](https://github.com/ArturVinicius) |
+| 16/12 /2024 | 2.0 | Atualização do EAP | [Artur Vinicius](https://github.com/ArturVinicius) |
