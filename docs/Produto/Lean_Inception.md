@@ -99,7 +99,7 @@ O Canvas MVP é uma ferramenta visual que ajuda as equipes a definir de forma cl
 
 O Canvas MVP do grupo é:
 
-![Canvas MVP](../assets/Canva_MVP.jpg)
+![Canvas MVP](../assets/Canva_MVP.png)
 
 ## 3. Lean Inception Completa
 
