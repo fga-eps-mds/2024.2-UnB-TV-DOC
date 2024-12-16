@@ -16,7 +16,7 @@ nav:
     #- Plano de Qualidade: Planejamento/PlanoQualidade.md
     - Plano de Riscos: Planejamento/Plano_de_Risco.md  
     - Quadro de conhecimento: Planejamento/Quadro_Conhecimento.md  
-    #- Metodologias: Planejamento/Metodologias.md
+    - Metodologias: definicao_projeto/metodologias.md
     #- EVM: Planejamento/evm.md
   - Produto:
     - Lean Inception: Produto/Lean_Inception.md
