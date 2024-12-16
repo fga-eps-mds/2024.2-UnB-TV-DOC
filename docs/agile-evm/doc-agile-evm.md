@@ -23,7 +23,7 @@
 
 | Versão | Data       | Responsável  | Descrição                    |
 | :------: | :----------: | ------------ | ---------------------------- |
-|  1.0   | 2024-12-15 | [Levi Queiroz](https://github.com/LeviQ27) | :memo: #116 - Criação do documento de agile evm |
+|  1.0   | 2024-12-16 | [Levi Queiroz](https://github.com/LeviQ27) | :memo: #138 - Criação do documento de agile evm |
 
 
 ## Introdução
