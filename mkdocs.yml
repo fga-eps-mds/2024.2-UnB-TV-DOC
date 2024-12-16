@@ -13,7 +13,7 @@ nav:
   - Planejamento:
     - Plano de Comunicação: Planejamento/Plano_de_Comunicacao.md
     - Plano de Custos: Planejamento/Plano_de_Custo.md
-    #- Plano de Qualidade: Planejamento/PlanoQualidade.md
+    - Plano de Qualidade: Planejamento/Plano_de_Qualidade.md
     - Plano de Riscos: Planejamento/Plano_de_Risco.md  
     - Quadro de conhecimento: Planejamento/Quadro_Conhecimento.md  
     - Metodologias: definicao_projeto/metodologias.md
