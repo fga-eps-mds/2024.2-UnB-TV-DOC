@@ -117,6 +117,8 @@ Refere-se ao custo real incorrido na entrega do trabalho concluído. Isso pode i
 
 ### Planilha
 
+Planilha encontrada em [EVM - 2024.2 - UnB-TV](https://docs.google.com/spreadsheets/d/1JpEpoYqMOgKBjY0g-Wp9pBaMqddykE6eA4I257H07K8/edit?usp=sharing)
+
 ## Conclusão
 
 ## Referências
